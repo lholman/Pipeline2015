@@ -1,5 +1,3 @@
-### Name: Lloyd Holman ###
-### Organisation: ###
 ### Session Title: One of the below ###
 1. Continuously improving Continuous Delivery
 1. Continuously improving towards Continuous Delivery
@@ -16,6 +14,7 @@ To provide attendees with an insight in to a real life example of applying well 
 *Timing - 0-2 mins*
 ####Continuous Delivery maturity assessment####
 *Timing - 2-7 mins*
+
 *Purpose:* Provide a concrete assessment of the team/organisations current capability to continuously deliver.  
 * Introduce the maturity model, practices and maturity levels
 * Tasks 
@@ -24,6 +23,7 @@ To provide attendees with an insight in to a real life example of applying well 
   * Simple, a dated and highlighted Continuous Delivery maturity model.
   * Broadcast and share this internally, scan it and email it, digitize it and add it to source control if you can. 
   * [ ] Get permission from Pearson Education to use maturity model http://uk.pearson.com/professional.html and https://twitter.com/pearson_uk http://www.pearsoned.co.uk/bookshop/detail.asp?WT.oss=0321601912&WT.oss_r=1&item=100000000288881 ISBN 0321601912
+  
 ####Identify the pain points####
 * Questions to ask of the filled out maturity model assessment 
   * Where are you regressive and not repeatable?
