@@ -7,7 +7,7 @@
 1. Championing Continuous Delivery internally
 
 ###Brief Synopsis (c. 100 words):###
-To provide attendees with an insight in to a real life example of applying well known product management, agile and DevOps principles to realise Continuous Delivery, that is the ability to always be ready to deploy. 
+To provide attendees with an insight in to a real life example of applying well known product management, agile and DevOps principles to realise Continuous Delivery, that is, the ability to always be able to deploy. 
 
 ###Talk Details:###
 ####Set the scene####
