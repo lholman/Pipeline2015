@@ -1,7 +1,7 @@
 ## Name: Lloyd Holman ##
 ## Organisation: ##
-## Session Title: One of below ##
-1. Continuously Improving Continuous Delivery
+## Session Title: One of the below ##
+1. Continuously improving Continuous Delivery
 1. Continuously improving towards Continuous Delivery
 1. Assessing Continuous Delivery
 1. Applying Continuous Delivery
@@ -9,7 +9,7 @@
 1. Championing Continuous Delivery internally
 
 ## Brief Synopsis (c. 100 words): ##
-To provide attendees with an insight in to 
+To provide attendees with an insight in to a real life example of applying well known product management, agile and DevOps principles to realise Continuous Delivery, that is the ability to always be ready to deploy. 
 
 ## Talk Details: ##
 * Maturity assessment
