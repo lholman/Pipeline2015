@@ -12,6 +12,8 @@ To provide attendees with an insight in to a real life example of applying well 
 ###Talk Details:###
 ####Set the scene####
 *Timing - 0-2 mins*
+*Purpose:* Explain who I am, what this talk is about and what do I understand by Continuous Delivery, i.e. a more personal synopsis
+
 ####Continuous Delivery maturity assessment####
 *Timing - 2-7 mins*
 
