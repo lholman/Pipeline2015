@@ -12,11 +12,11 @@
 To provide attendees with an insight in to a real life example of applying well known product management, agile and DevOps principles to realise Continuous Delivery, that is the ability to always be ready to deploy. 
 
 ###Talk Details:###
-####Set the scene#### 
-**Timing - 0-2 mins**
+####Set the scene####
+*Timing - 0-2 mins*
 ####Continuous Delivery maturity assessment####
-**Timing - 2-7 mins**
-Purpose: Provide a concrete assessment of the team/organisations current capability to continuously deliver.  
+*Timing - 2-7 mins*
+*Purpose:* Provide a concrete assessment of the team/organisations current capability to continuously deliver.  
 * Introduce the maturity model, practices and maturity levels
 * Tasks 
   * Perform a high-level assessment against all practices in the Continuous Delivery book maturity model. Ensure that all team members/stakeholders have input 
