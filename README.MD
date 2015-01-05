@@ -15,7 +15,7 @@ To provide attendees with an insight in to a real life example of applying well 
 *Purpose:* Explain who I am, what this talk is about and what do I understand by Continuous Delivery, i.e. a more personal synopsis
 
 ####Continuous Delivery maturity assessment####
-*Timing - 2-7 mins*
+*Timing - 3-7 mins*
 
 *Purpose:* Provide a concrete assessment of the team/organisations current capability to continuously deliver.  
 * Introduce the maturity model, practices and maturity levels
@@ -27,6 +27,8 @@ To provide attendees with an insight in to a real life example of applying well 
   * [ ] Get permission from Pearson Education to use maturity model http://uk.pearson.com/professional.html and https://twitter.com/pearson_uk http://www.pearsoned.co.uk/bookshop/detail.asp?WT.oss=0321601912&WT.oss_r=1&item=100000000288881 ISBN 0321601912
   
 ####Identify the pain points####
+*Timing - 8-13 mins*
+
 * Questions to ask of the filled out maturity model assessment 
   * Where are you regressive and not repeatable?
   * If you were to move up a level in a practice, which would offer the highest business value?
