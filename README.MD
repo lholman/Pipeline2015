@@ -12,7 +12,11 @@ To provide attendees with an insight in to a real life example of applying well 
 ###Talk Details:###
 ####Set the scene####
 *Timing - 0-2 mins*
-*Purpose:* Explain who I am, what this talk is about and what do I understand by Continuous Delivery, i.e. a more personal synopsis
+*Purpose:* Explain who I am, what this talk is about and what do I understand by Continuous Delivery and agile principles, i.e. a more personal synopsis
+
+* Continuous Delivery:  The CXX test, always capable of deploying, string CI, build notifications, some deployment automtation
+
+* Agile: I believe in the agile manifesto and the Scrum/Kanban/Xanban/XP principles and applying them to ones organisation. That said, the single most important point is I believe it forms the basis for failing early and reducing release batch sizes, key principles for successful Continuous Delivery. 
 
 ####Continuous Delivery maturity assessment####
 *Timing - 3-7 mins*
