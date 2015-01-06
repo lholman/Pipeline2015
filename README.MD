@@ -34,8 +34,9 @@ To provide attendees with an insight in to a real life example of applying well 
   * Simple, a dated and highlighted Continuous Delivery maturity model.
   * Broadcast and share this internally, scan it and email it, digitize it and add it to source control if you can. 
 
-- [ ] Get permission from Pearson Education to use maturity model http://uk.pearson.com/professional.html and https://twitter.com/pearson_uk http://www.pearsoned.co.uk/bookshop/detail.asp?WT.oss=0321601912&WT.oss_r=1&item=100000000288881 ISBN 0321601912
-- [ ] Create demo completed CD maturity models
+* To do  
+  * [Get permission from Pearson Education to use maturity model](#1)
+  * [Create demo completed CD maturity models](#2)
   
 ####Identify the pain points####
 *Timing - 9-14 mins*
